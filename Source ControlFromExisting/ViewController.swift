@@ -12,7 +12,7 @@ class ViewController: NSViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Hello World")
-        print("Hello World updated")
+        print("Hello World updated bug a!")
         // Do any additional setup after loading the view.
     }
 
